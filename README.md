@@ -1,3 +1,2 @@
 Testando sistema no GIT.
-
-Alteração feita na MASTER
+Alteracao feita na MASTER
